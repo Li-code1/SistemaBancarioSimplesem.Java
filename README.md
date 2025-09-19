@@ -16,7 +16,6 @@ Interface de menu interativo via terminal
 
 📦 Estrutura do Projeto
 
-bash
 
 BancoSimples.java
 
@@ -33,11 +32,11 @@ Clone o repositório ou copie o código para um arquivo chamado BancoSimples.jav
 
 Compile o código:
 
-bash
+
 javac BancoSimples.java
 Execute o programa:
 
-bash
+
 
 java BancoSimples
 
@@ -62,6 +61,7 @@ O saldo inicial é definido como R$1000, mas pode ser alterado no construtor da 
 O sistema não salva os dados após o encerramento (sem persistência em arquivo ou banco de dados).
 
 📈 Melhorias Futuras
+
 Suporte a múltiplas contas
 
 Autenticação com senha
@@ -71,4 +71,4 @@ Persistência de dados em arquivo ou banco de dados
 Interface gráfica com JavaFX ou Swing
 
 🧑‍💻 Autor
-Desenvolvido como exemplo de sistema bancário simples em Java. Contribuições e melhorias são bem-vindas!
+Desenvolvido por Liliane Lima como exemplo de sistema bancário simples em Java. Contribuições e melhorias são bem-vindas!
